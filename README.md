@@ -17,3 +17,7 @@ I'm a 17 years old student interested in Softare Engineering, I'm currently stud
 - 🗃 [**practices**](https://github.com/HBlanqueto/practices)
 
 ## Find me around the web 🌍
+
+- [**Discord**]()
+- [**Reddit**](https://www.reddit.com/user/HBlanqueto)  
+- [**Telegram**])
