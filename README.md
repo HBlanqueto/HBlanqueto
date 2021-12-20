@@ -20,4 +20,4 @@ I'm a 17 years old student interested in Softare Engineering, I'm currently stud
 
 - [**Discord**]()
 - [**Reddit**](https://www.reddit.com/user/HBlanqueto)  
-- [**Telegram**)
+- [**Telegram**]()
