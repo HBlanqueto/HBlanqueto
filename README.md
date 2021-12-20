@@ -9,7 +9,7 @@ I'm a 17 years old student interested in Softare Engineering, I'm currently stud
 
 ## Activities 🚀
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HBlanqueto&show_icons=true&theme=white" alt="HBlanqueto's Status" /> 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HBlanqueto&show_icons=true&theme=white" alt="HBlanqueto's Status" />
 
 ## My repositories 🦾
 
