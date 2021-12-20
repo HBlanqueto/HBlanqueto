@@ -12,5 +12,7 @@ About me, I can tell you that I like to use GNU/Linux distributions like [NixOS]
 
 ### Contact me 👥
 
+
+
 Join my community or send me a message, I'll be happy to support you. 
 
