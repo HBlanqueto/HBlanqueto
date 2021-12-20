@@ -1,15 +1,16 @@
-### Hi there 👋
+## こんにちは、ようこそ! 👋🏻
 
-**HBlanqueto/HBlanqueto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me ❓
+I'm a 17 years old student interested in Softare Engineering, I am currently studying my last semester in High School so I aim to be the best at the University and stand out with great work. 
 
-Here are some ideas to get you started:
+About me, I can tell you that I like to use GNU/Linux distributions like [NixOS](https://nixos.org/) as investigate about Unix's History, play video games like Terraria or League of Legends, read a book and watch Anime. (I'm a nerd). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### My repositories 🦾
+
+- ❄ [nixdots]()
+- 🗃 [practices]()
+
+### Contact me 👥
+
+Join my community or send me a message, I'll be happy to support you. 
 
