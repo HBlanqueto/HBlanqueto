@@ -11,5 +11,5 @@ I'm a 17 years old student interested in Softare Engineering, currently studying
 These are some repositories I've been working on to improve personal capabilities. Take a look they are very cool.
 
 - ❄ [[https://github.com/HBlanqueto/nixdots][nixdots]]
-- 📚 [[https://github.com/HBlanqueto/org-cheatsheet][org-cheatsheet]]
+- 📚 [[https://github.com/HBlanqueto/org-cheatsheet][org cheatsheet]]
 - 🗃 [[https://github.com/HBlanqueto/practices][practices]]
