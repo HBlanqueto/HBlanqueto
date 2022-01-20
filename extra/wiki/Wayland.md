@@ -11,7 +11,7 @@ sudo apt install xdg-desktop-portal-wlr xdg-desktop-portal xdg-desktop-portal-gt
 ## Chromium Based 🌐
 
 <p align='center'>
-	<img src='https://raw.githubusercontent.com/HBlanqueto/HBlanqueto/master/wayland/Sharing_screen.png'/>
+	<img src='https://raw.githubusercontent.com/HBlanqueto/HBlanqueto/myself/extra/wiki/wayland/Sharing_screen.png'/>
 </p>
 
 **Enable Screen Sharing**
@@ -53,7 +53,7 @@ Exec=/usr/bin/google-chrome-unstable --enable-features=UseOzonePlatform --ozone-
 ## Firefox 🦊
 
 <p align='center'>
-	<img src='https://raw.githubusercontent.com/HBlanqueto/HBlanqueto/master/wayland/firefox.png'/>
+	<img src='https://raw.githubusercontent.com/HBlanqueto/HBlanqueto/myself/extra/wiki/wayland/firefox.png'/>
 </p>
 
 **Running Firefox under Wayland**
@@ -86,7 +86,7 @@ sudo flatpak override --env=QT_QPA_PLATFORM=wayland org.telegram.desktop
 ## Pipewire 🔈
 
 <p align='center'>
-	<img src='https://raw.githubusercontent.com/HBlanqueto/HBlanqueto/master/wayland/pipewire.png'/>
+	<img src='https://raw.githubusercontent.com/HBlanqueto/HBlanqueto/myself/extra/wiki/wayland/pipewire.png'/>
 </p>
 
 
