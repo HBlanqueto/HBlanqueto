@@ -43,30 +43,23 @@ mkfs.btrfs /dev/sdaX
 ```sh
 mount /dev/sdaX /mnt
 btrfs su cr /mnt/@root
-btrfs su cr /mnt/@opt
 btrfs su cr /mnt/@var
-btrfs su cr /mnt/@srv
 btrfs su cr /mnt/@tmp
-btrfs su cr /mnt/@media
-btrfs su cr /mnt/@snapshots #this is optional
+btrfs su cr /mmt/@home
 ```
 
 **Mounting top-level partitions**
 ```sh
 mount -o noatime,compress=zstd,space_cache=v2,subvol=@root /dev/sdaX /mnt
-mkdir -p /mnt/{home,boot,.snapshots,var,opt,tmp,srv}
-mount -o noatime,compress=zstd,space_cache=v2,subvol=@opt /dev/sdaX /opt
-mount -o noatime,compress=zstd,space_cache=v2,subvol=@srv /dev/sdaX /srv
+mkdir -p /mnt/{home,boot,.snapshots,var,tmp}
+mount -o noatime,compress=zstd,space_cache=v2,subvol=@opt /dev/sdaX /homme
+mount -o noatime,compress=zstd,space_cache=v2,subvol=@srv /dev/sdaX /var
 mount -o noatime,compress=zstd,space_cache=v2,subvol=@tmp /dev/sdaX /tmp
-mount -o noatime,compress=zstd,space_cache=v2,subvol=@media /dev/sdaX /media
-mount -o noatime,compress=zstd,space_cache=v2,subvol=@snapthots /dev/sdaX /.snapshots #optional
 mount -o nodatacow,subvol=@var /dev/sdaX /mnt/var
 ```
-**Mount `/home` & `/boot/efi`**
+**Mount & `/boot/`**
 ```sh
-mkdir -p /mnt/boot/efi
-mount /dev/sdaX /mnt/boot/efi
-mount /dev/sdaX /mnt/home
+mount /dev/sdaX /mnt/boot
 cp /etc/resolv.conf /mnt/etc/
 ```
 
