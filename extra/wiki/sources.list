@@ -1,9 +1,0 @@
-# This list was generated with https://debgen.simplylinux.ch/
-
-
-# Sid (Unstable)
-deb http://deb.debian.org/debian/ unstable main contrib non-free
-#deb-src http://deb.debian.org/debian/ unstable main contrib non-free
-
-# Experimental (I like to use this)
-# deb http://httpredir.debian.org/debian experimental main

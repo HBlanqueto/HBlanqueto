@@ -1,1 +1,32 @@
+#+author: HBlanqueto
+#+date:   2022-04-22
+#+EMAIL:  humbertoblanqueto@outlook.com
+#+DESCRIPTION: Description about myself, a few facts about me  to introduce information.
+#+KEYWORDS:  personal dashboard
+#+LANGUAGE:  en
 
+** Welcome to my dashboard 👋🏼
+
+My name is =Humberto Blanqueto= future developer, I will study Software Engineer as a result of operative systems like GNU/Linux distributions for my daily day due to freedom to modify the system as I want.
+
+- *About me*
+  - I'm open to contribute in community projects.
+  - My favorites linux distributions are NixOS & Debian.
+  - I watch anime, play videogames and reading books in my free times.
+
+- *Todo 🧾*
+  - Learn Lua & C++
+  - Understand what [[https://nixos.wiki/wiki/Flakes#:~:text=Nix%20flakes%20is%20some%20upcoming%20feature%20in%20the,flake.nix%20where%20they%20can%20describe%20their%20own%20dependencies.][Flakes]] is in order to use it on my dotfiles.
+
+- *Contact me ⛄️*
+  - Telegram: @MrHBlanqueto
+  - Matrix: @mr.hblanqueto:matrix.org
+  - Reddit: [[https://www.reddit.com/user/Mr_HBlanqueto][Mr.HBlanqueto]]
+
+** ㅤ
+
+#+HTML:<div align=center>
+
+Feel free to check these cool repositories  👇🏼 
+
+#+HTML:</div>
