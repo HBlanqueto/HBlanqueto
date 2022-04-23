@@ -5,7 +5,7 @@
 #+KEYWORDS:  personal dashboard
 #+LANGUAGE:  en
 
-** Welcome to my dashboard 👋🏼
+** Welcome to my profile 👋🏼
 
 My name is =Humberto Blanqueto= future developer, I will study Software Engineer as a result of operative systems like GNU/Linux distributions for my daily day due to freedom to modify the system as I want.
 
