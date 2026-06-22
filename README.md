@@ -27,7 +27,9 @@ I'm currently in university, looking to absorb knowledge and lay the groundwork 
 ☕ Support My Work!
 
 Any support is highly appreciated!
-Coin 	Network 	Address
-Bitcoin (BTC) 	Bitcoin 	bc1q5ydtrzlzx8c3tatyjlfttayll5hm7tn8r6pm68
-USDT 	Polygon 	0x5315731C25Df132c68F7f8140538061E7f7D1BAF
-USDC 	Polygon 	0x5315731C25Df132c68F7f8140538061E7f7D1BAF
+
+| Coin | Network | Address |
+| :--- | :--- | :--- |
+| **Bitcoin (BTC)** | Bitcoin | `bc1q5ydtrzlzx8c3tatyjlfttayll5hm7tn8r6pm68` |
+| **USDT** | Solana | `0x5315731C25Df132c68F7f8140538061E7f7D1BAF` |
+| **USDC** | XLM | `0x5315731C25Df132c68F7f8140538061E7f7D1BAF` | 
