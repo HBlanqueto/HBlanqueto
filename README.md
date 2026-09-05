@@ -1,35 +1,20 @@
-# Hi there! I'm H. Blanqueto 👋
+# Hi there! I'm H. Blanqueto
 
-### 🚀 About Me
-Welcome to my profile! I am an **Accounting** student and a passionate tech hobbyist. I love tinkering with open-source software and exploring the Unix and Unix-like ecosystem. 
+### About Me
 
-I'm currently in university, looking to absorb knowledge and lay the groundwork for future personal projects.
+I'm an **Accounting** student and a passionate tech hobbyist. I thoroughly enjoy breaking things, fixing them, and exploring the FOSS and Unix-like ecosystems to build a foundation for future projects.
 
-* 🏫 University student majoring in Accounting.
-* 🐧 FOSS (Free and Open Source Software) and Unix-like systems enthusiast.
-* 🛠️ My main and favorite OS is **NixOS** (power to reproducibility).
-* 💡 "I know that I know nothing", but I thoroughly enjoy the process of breaking things and fixing them.
+* **Daily Driver:** **NixOS** (power to reproducibility).
+* **Mindset:** "I know that I know nothing."
 
 ---
 
-### 🎯 To-Do List
-* [ ] Master the basics of **Lua**.
-* [ ] Develop and publish a small Lua project/script that integrates or interacts with **NixOS**.
-* [ ] Keep diving deeper into systems administration as a hobby.
+### Support My Work
 
----
-
-### 🛠️ Tools & Environment
-* **Systems:** NixOS, Linux / Unix-like
-* **On my radar:** Lua 🌙
-
----
-☕ Support My Work!
-
-Any support is highly appreciated!
+If you'd like to support a student exploring the tech rabbit hole, any contribution is highly appreciated!
 
 | Coin | Network | Address |
 | :--- | :--- | :--- |
 | **Bitcoin (BTC)** | Bitcoin | `bc1q5ydtrzlzx8c3tatyjlfttayll5hm7tn8r6pm68` |
 | **USDT** | Solana | `0x5315731C25Df132c68F7f8140538061E7f7D1BAF` |
-| **USDC** | XLM | `0x5315731C25Df132c68F7f8140538061E7f7D1BAF` | 
+| **USDC** | Stellar (XLM) | `GABFQIK63R2NETJM7T673EAMZN4RJLLGP3OFUEJU5SZVTGWUKULZJNL6` <br> **Memo:** `378163134` |
