@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="Welcome, respected brother. I'm H. Blanqueto" width="100%" />
+  <img src="header.svg" alt="Welcome, respected brother. I'm H. Blanqueto" width="100%" />
 </p>
 
 > "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind."
