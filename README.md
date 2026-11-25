@@ -24,7 +24,7 @@ I'm not a specialized programmer: most of the time, because of my job, I build h
 
 ### Now Listening
 
-🎧 *Song title* — Artist
+<img src="now-playing.svg" alt="Now playing: Saka Saka (con Felon Kdc) by The Seler" width="100%" />
 
 ---
 
