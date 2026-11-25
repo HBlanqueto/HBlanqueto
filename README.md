@@ -1,11 +1,30 @@
-# Hi there! I'm H. Blanqueto
+<p align="center">
+  <img src="header.png" alt="Welcome, respected brother. I'm H. Blanqueto" width="100%" />
+</p>
+
+> "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind."
+> — 2 Timothy 1:7 (KJV)
 
 ### About Me
 
-I'm an **Accounting** student and a passionate tech hobbyist. I thoroughly enjoy breaking things, fixing them, and exploring the FOSS and Unix-like ecosystems to build a foundation for future projects.
+I work in funeral services and I'm a **Public Accounting** student. I'm passionate about technology and finance, and I'm someone who sometimes has a lot of free time… and sometimes doesn't.
 
-* **Daily Driver:** **NixOS** (power to reproducibility).
-* **Mindset:** "I know that I know nothing."
+I'm not a specialized programmer: most of the time, because of my job, I build hobby projects with the help of AI. I try to stay informed through any channel I can, and I like to take an active part in communities to bring good practices to the little I do.
+
+### What do I use?
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=apple,nix,lua" alt="macOS, NixOS, Lua" />
+</p>
+
+* **Main computer:** Mac mini
+* **Favorite OS:** NixOS
+* **Desktop:** GNOME
+* **Favorite language:** Lua
+
+### Now Listening
+
+🎧 *Song title* — Artist
 
 ---
 
